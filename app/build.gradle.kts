@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.project_hurb"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.project_hurb"
